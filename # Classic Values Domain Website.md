@@ -35,6 +35,27 @@ The table below lists all our releases, including our `main` branch which is und
 | **Release 19** | **January 14, 2022** | **[source](https://github.com/Unity-Technologies/ml-agents/tree/release_19)** | **[docs](https://github.com/Unity-Technologies/ml-agents/tree/release_19_docs/docs/Readme.md)** | **[download](https://github.com/Unity-Technologies/ml-agents/archive/release_19.zip)** | **[0.28.0](https://pypi.org/project/mlagents/0.28.0/)** | **[2.2.1](https://docs.unity3d.com/Packages/com.unity.ml-agents@2.2/manual/index.html)** | 
 | **Verified Package 1.0.8** | **May 26, 2021** | **[source](https://github.com/Unity-Technologies/ml-agents/tree/com.unity.ml-agents_1.0.8)** | **[docs](https://github.com/Unity-Technologies/ml-agents/blob/release_2_verified_docs/docs/Readme.md)** | **[download](https://github.com/Unity-Technologies/ml-agents/archive/com.unity.ml-agents_1.0.8.zip)** | **[0.16.1](https://pypi.org/project/mlagents/0.16.1/)** | **[1.0.8](https://docs.unity3d.com/Packages/com.unity.ml-agents@1.0/manual/index.html)** |
 
+<!-- "More from ClassicValues" Apps, Websites, and other links, inluding Github Repos and other corporations like SoftwareSafety and NuevoEye  -->
+### More from Unity 
+
+- [Unity Robotics](https://github.com/Unity-Technologies/Unity-Robotics-Hub) 
+- [Unity Computer Vision](https://unity.com/computer-vision) 
+- [Unity Game Simulation](https://unity.com/products/game-simulation) 
+
+
+<!-- classicvaluesllc@gmail.com and other emails for the project. Links to FAQ, Community Board, sugggestions, security issue boards, and other link  -->
+## Community and Feedback 
+
+The ML-Agents Toolkit is an open-source project and we encourage and welcome contributions. If you wish to contribute, be sure to review our [contribution guidelines](com.unity.ml-agents/CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md). 
+
+For problems with the installation and setup of the ML-Agents Toolkit, or discussions about how to best setup or train your agents, please create a new thread on the [Unity ML-Agents forum](https://forum.unity.com/forums/ml-agents.453/) and make sure to include as much detail as possible. If you run into any other problems using the ML-Agents Toolkit or have a specific feature request, please [submit a GitHub issue](https://github.com/Unity-Technologies/ml-agents/issues). 
+
+Please tell us which samples you would like to see shipped with the ML-Agents Unity package by replying to [this forum thread](https://forum.unity.com/threads/feedback-wanted-shipping-sample-s-with-the-ml-agents-package.1073468/). 
+
+Your opinion matters a great deal to us. Only by hearing your thoughts on the Unity ML-Agents Toolkit can we continue to improve and grow. Please take a few minutes to [let us know about it](https://unitysoftware.co1.qualtrics.com/jfe/form/SV_55pQKCZ578t0kbc). 
+
+For any other questions or feedback, connect directly with the ML-Agents team at ml-agents@unity3d.com.
+
 <!-- App Engine and Blog Integrations,  -->
 ## Blog Posts
 We have also published a series of blog posts that are relevant for CoreUI site publishing as well as template development and CoreUI/Google App Engine Integrations:
@@ -60,3 +81,4 @@ CoreUI is designed as the extension of [Bootstrap](https://getbootstrap.com). Sp
  
 ## Copyright and License
 Copyright 2021 creativeLabs Łukasz Holeczek. Code released under the [MIT License](https://github.com/coreui/coreui/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+
